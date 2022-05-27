@@ -1,0 +1,3 @@
+[submodule "PCB_components_library"]
+	path = PCB_components_library
+	url = git@github.com:mikprin/PCB_components_library.git
