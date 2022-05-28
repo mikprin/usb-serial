@@ -1,2 +1,2 @@
 # usb-serial
-PCB based on USB-Cerealproject
+PCB based on USB-Cereal project
